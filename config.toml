@@ -1,6 +1,6 @@
-baseURL = "/"
+baseURL = "https://nolanwthompson.netlify.app"
 languageCode = "en-us"
-title = "Edna West"
+title = "Nolan Thompson"
 theme = "personal-web"
 copyright="© Edna West"
 googleAnalytics = ""
@@ -10,7 +10,7 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Edna :wave:"
+  main = "Hi, I'm Nolsn :wave:"
   sub = "I'm a Web Developer and Entrepreneur"
 
 [params.main]
