@@ -37,7 +37,7 @@ pygmentsCodeFences=true
   # Define how your sections will be called
   # when automatically pulled. For instance in the 404 page
   post = "article"
-  portfolio = "project"
+  projects = "project"
 
 [params.sidebar]
   backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
@@ -93,6 +93,13 @@ pygmentsCodeFences=true
   title = "contact section"
   url = "/contact/"
   weight = -90
+
+  [[menu.main]]
+  identifier = "postt"
+  name = "post"
+  title = "post"
+  url = "/post/"
+  weight = -80
 
 [sitemap]
   changefreq = "monthly"
