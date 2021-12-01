@@ -10,7 +10,7 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Nolsn :wave:"
+  main = "Hi, I'm Nolan :wave:"
   sub = "I'm a Web Developer and Entrepreneur"
 
 [params.main]
