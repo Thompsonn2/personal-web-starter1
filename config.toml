@@ -77,7 +77,7 @@ pygmentsCodeFences=true
   identifier = "projects"
   name = "Projects"
   title = "Project section"
-  url = "/project/"
+  url = "/projects/"
   weight = -110
 
 [[menu.main]]
@@ -95,7 +95,7 @@ pygmentsCodeFences=true
   weight = -90
 
   [[menu.main]]
-  identifier = "postt"
+  identifier = "post"
   name = "post"
   title = "post"
   url = "/post/"
