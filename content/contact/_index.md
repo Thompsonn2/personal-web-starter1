@@ -1,5 +1,5 @@
 ---
-title: POST
+title: Contact
 description: 'Posts Section'
 ---
 

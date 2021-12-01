@@ -1,5 +1,5 @@
 ---
-title: ABOUT
+title: Skills
 description: Hey, I'm Edna West
 images: ["/images/sample.jpg"]
 ---
