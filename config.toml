@@ -59,10 +59,10 @@ pygmentsCodeFences=true
 [menu]
 
 [[menu.main]]
-  identifier = "about"
-  name = "About Me"
-  title = "About section"
-  url = "/about/"
+  identifier = "skills"
+  name = "Skills"
+  title = "skills section"
+  url = "/skills/"
   weight = -120
 
 [[menu.main]]
@@ -73,25 +73,18 @@ pygmentsCodeFences=true
   weight = -110
 
 [[menu.main]]
-  identifier = "skills"
-  name = "Skills"
-  title = "skills section"
-  url = "/skills/"
+  identifier = "about"
+  name = "About Me"
+  title = "About section"
+  url = "/about/"
   weight = -100
-
-[[menu.main]]
-  identifier = "contact"
-  name = "Contact"
-  title = "contact section"
-  url = "/contact/"
-  weight = -90
 
   [[menu.main]]
   identifier = "post"
   name = "post"
   title = "post"
   url = "/post/"
-  weight = -80
+  weight = -90
 
 [sitemap]
   changefreq = "monthly"
