@@ -37,7 +37,7 @@ pygmentsCodeFences=true
   # Define how your sections will be called
   # when automatically pulled. For instance in the 404 page
   post = "article"
-  projects = "project"
+  projects = "article"
 
 [params.sidebar]
   backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
