@@ -49,7 +49,7 @@ pygmentsCodeFences=true
 
 [params.sections]
   post = "article"
-  portfolio = "project"
+  portfolio = "article"
 
 [params.sidebar]
   backgroundImage = ''
