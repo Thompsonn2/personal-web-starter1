@@ -70,7 +70,7 @@ pygmentsCodeFences=true
   name = "Project"
   title = "Project section"
   url = "/projects/"
-  weight = -90
+  weight = -110
 
 [[menu.main]]
   identifier = "about"
@@ -84,9 +84,9 @@ pygmentsCodeFences=true
   name = "ProjectTest"
   title = "ProjectTest"
   url = "/post/"
-  weight = -110
+  weight = -90
 
-[sitemap]
+[sitemap] 
   changefreq = "monthly"
   filename = "sitemap.xml"
   priority = 0.5
