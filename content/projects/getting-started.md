@@ -1,10 +1,12 @@
 ---
-title: Algorithmic Trading
-description: Project Overview of Algorithmic Trading
+title: Getting started
+description: Getting started with personal-web
+date: "2019-05-03T09:37:55+02:00"
+publishDate: "2019-05-03T09:37:55+02:00"
 ---
 
 This project was implemented to trade securities based on moving average crossovers. Looking at moving averages can indicate whether a security is thought to be overbought or oversold, indicating potential entry and exit points. While this program does not handle live data, it provides interesting results that can be useful to keep in mind for real time scenarios. 
- 
+
 <!--more-->
 
 We'll assume here that you have a good understanding of Hugo and its structure. If you have any doubt, check the [Hugo documentation](https://gohugo.io/documentation/ "Hugo documentation"); it is pretty good and the community quite active! Thank you so much by the way! :muscle:
