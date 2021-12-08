@@ -70,7 +70,7 @@ pygmentsCodeFences=true
   name = "post"
   title = "Project section"
   url = "/post/"
-  weight = -90
+  weight = -130
 
 [[menu.main]]
   identifier = "about"
