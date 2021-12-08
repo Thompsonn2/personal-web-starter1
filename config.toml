@@ -69,8 +69,8 @@ pygmentsCodeFences=true
   identifier = "Projects"
   name = "post"
   title = "Project section"
-  url = "/projects/"
-  weight = -110
+  url = "/post/"
+  weight = -90
 
 [[menu.main]]
   identifier = "about"
@@ -82,9 +82,9 @@ pygmentsCodeFences=true
   [[menu.main]]
   identifier = "post"
   name = "Projects"
-  title = "post"
-  url = "/post/"
-  weight = -90
+  title = "Projects"
+  url = "/projects/"
+  weight = -110
 
 [sitemap]
   changefreq = "monthly"
