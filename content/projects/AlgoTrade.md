@@ -1,8 +1,6 @@
 ---
 title: Algorithmic Trading
 description: Project Overview of Algorithmic Trading
-date: "2019-05-03T09:37:55+02:00"
-publishDate: "2019-05-03T09:37:55+02:00"
 ---
 
 This project was implemented to trade securities based on moving average crossovers. Looking at moving averages can indicate whether a security is thought to be overbought or oversold, indicating potential entry and exit points. While this program does not handle live data, it provides interesting results that can be useful to keep in mind for real time scenarios. 

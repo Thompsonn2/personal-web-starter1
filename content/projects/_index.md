@@ -1,7 +1,6 @@
 ---
 title: Projects
-description: Hey, I'm Edna West
-images: ["/images/sample.jpg"]
+description: These are all the projects I have completed
 ---
 
 
