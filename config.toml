@@ -10,7 +10,7 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Nolan :wave:"
+  main = "Hi, I'm Nolan"
   sub = "I'm a Student and Looking for a Job"
 
 [params.main]
@@ -66,7 +66,7 @@ pygmentsCodeFences=true
   weight = -120
 
 [[menu.main]]
-  identifier = "projects"
+  identifier = "post"
   name = "Projects"
   title = "Project section"
   url = "/projects/"
@@ -80,7 +80,7 @@ pygmentsCodeFences=true
   weight = -100
 
   [[menu.main]]
-  identifier = "post"
+  identifier = "projects"
   name = "post"
   title = "post"
   url = "/post/"
