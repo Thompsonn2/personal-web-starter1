@@ -4,6 +4,6 @@ description: Welcome to this sample project
 images: ["/images/sample.jpg"]
 ---
 
-# Nolan Thompson
+## Nolan Thompson
 
-I am a Senior at Allegheny College looking for a job oppurtunity in finance or computer science
+I am a Senior at Allegheny College looking for a job oppurtunity in the finance or computer science field
