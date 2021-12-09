@@ -78,6 +78,13 @@ pygmentsCodeFences=true
   url = "/about/"
   weight = -100
 
+[[menu.main]]
+  identifier = "resume"
+  name = "resume"
+  title = "resume"
+  url = "/resume/"
+  weight = 0
+
 [sitemap] 
   changefreq = "monthly"
   filename = "sitemap.xml"
