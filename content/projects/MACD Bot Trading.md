@@ -7,7 +7,7 @@ publishDate: "2019-05-02T19:49:05+02:00"
 
 When looking at a stock chart with the Moving Average Convergence and Divergence technical indicator a clear pattern can be seen when looking at the cross-over points. This indicator compares a long and short term moving average to its previous points.
 
-{{< figure src="/post/images/MACD.png">}}
+{{< figure src="/projects/images/MACD.png">}}
 
 <!--more-->
 

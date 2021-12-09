@@ -7,7 +7,7 @@ publishDate: "2019-05-03T09:37:55+02:00"
 
 This project was implemented to trade securities based on moving average crossovers. Looking at moving averages can indicate potential entry and exit points. While this program does not handle live data, it provides interesting results that can be useful to keep in mind for real time scenarios. 
 
-{{< figure src="/post/images/Candlestick.png">}}
+{{< figure src="/projects/images/Candlestick.png">}}
 
 <!--more-->
 
