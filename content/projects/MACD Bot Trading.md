@@ -1,8 +1,8 @@
 ---
 title: Automated Bot Trading
 description: MACD Bot Trading
-date: "2019-05-02T19:49:05+02:00"
-publishDate: "2019-05-02T19:49:05+02:00"
+date: "2020-05-20T19:49:05"
+publishDate: "2020-05-02T19:49:05"
 ---
 
 When looking at a stock chart with the Moving Average Convergence and Divergence technical indicator a clear pattern can be seen when looking at the cross-over points. This indicator compares a long and short term moving average to its previous points.
