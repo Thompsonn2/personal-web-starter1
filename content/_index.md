@@ -1,13 +1,10 @@
 ---
-title: HOME
+title:
 description: Welcome to this sample project
 images: ["/images/sample.jpg"]
 ---
 
-Hey,
+# Nolan
 
-I'm Nolan Thompson, a Student and Looking for a Job.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus error cumque quisquam necessitatibus libero dolore porro, quo at molestiae modi voluptatibus iusto alias corporis. Accusamus, debitis, atque. Maiores, distinctio, neque.
-
+# Thompson
 [Get to know me better](/about "Get to know me better")
