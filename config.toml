@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Hi, I'm Nolan"
-  sub = "I'm a Student and Looking for a Job"
+  sub = "I'm a Student looking for a Job"
 
 [params.main]
   latestPublishHeader = "My Latest Project"
