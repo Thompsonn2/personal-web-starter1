@@ -9,4 +9,4 @@ To try and predict price movements is a difficult task. There are many different
 
 <!--more-->
 
-{{< figure src="/post/images/COMINGSOON.png">}}
+{{< figure src="/projects/images/COMINGSOON.png">}}
