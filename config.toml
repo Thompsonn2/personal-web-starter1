@@ -2,7 +2,7 @@ baseURL = "https://nolanwthompson.netlify.app"
 languageCode = "en-us"
 title = "Nolan Thompson"
 theme = "personal-web"
-copyright="© Edna West"
+copyright="© LGT"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -42,7 +42,7 @@ pygmentsCodeFences=true
 [params.sidebar]
   backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/Me.jpg"
+  # logo = "" # - default "/images/me.jpg"
 [params.assets]
   favicon = ""
   customCSS = ""
