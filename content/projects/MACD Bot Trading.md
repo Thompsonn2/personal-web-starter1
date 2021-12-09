@@ -1,5 +1,5 @@
 ---
-title: Automated Bot Trading using Moving Average Convergence and Divergence
+title: Automated Bot Trading
 description: MACD Bot Trading
 date: "2019-05-02T19:49:05+02:00"
 publishDate: "2019-05-02T19:49:05+02:00"

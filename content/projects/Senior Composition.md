@@ -1,5 +1,5 @@
 ---
-title: Analyzing Financial Markets using Technical Analysis and Genetic Algorithms
+title: Analyzing Financial Markets using Technical Analysis
 description: Senior Composition
 date: "2019-05-02T19:25:30+02:00"
 publishDate: "2019-05-02T19:25:30+02:00"
