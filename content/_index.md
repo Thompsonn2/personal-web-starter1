@@ -1,10 +1,9 @@
 ---
-title:
+title: Home
 description: Welcome to this sample project
 images: ["/images/sample.jpg"]
 ---
 
-# Nolan
+# Nolan Thompson
 
-# Thompson
-[Get to know me better](/about "Get to know me better")
+I am a Senior at Allegheny College looking for a job oppurtunity in finance or computer science
