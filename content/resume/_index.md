@@ -2,4 +2,4 @@
 title: Resume
 ---
 
-{{< figure src="/skills/images/Resume.png">}}
+{{< figure src="/resume/images/Resume.png">}}
