@@ -14,7 +14,7 @@ pygmentsCodeFences=true
   sub = "I'm a Student looking for a Job"
 
 [params.main]
-  latestPublishHeader = ""
+  latestPublishHeader = "  "
 
 [taxonomies]
   design = "designs"
