@@ -7,20 +7,20 @@ images: ["/images/sample.jpg"]
 Through my education and experience I have gained a vast amount of skills in both computation and finance.
 
 ### Programming Languages
-**Python**
-**Java**
-**C#**
-**PLSQL**
+**Python**\
+**Java**\
+**C#**\
+**PLSQL**\
 
 ### Computational Skills and Workflows
-**Github Flow**
-**Selenium Webdriver**
-**Databases**
-**Markdown**
-**Latex**
+**Github Flow**\
+**Selenium Webdriver**\
+**Databases**\
+**Markdown**\
+**Latex**\
 
 ### Financial Analysis Tools and Experience
-**Stata**
-**Microsoft Office**
+**Stata**\
+**Microsoft Office**\
 **Tableau**
-##### Bloomberg Certified
+#### Bloomberg Certified
