@@ -48,8 +48,8 @@ pygmentsCodeFences=true
   customCSS = ""
 
 [params.social] 
-  github = "https://github.com/"
-  linkedin = "https://www.linkedin.com/in/"
+  github = "https://github.com/Thompsonn2?tab=repositories"
+  linkedin = "https://www.linkedin.com/in/nolan-thompson-8674a9228//"
 
 [params.contact]
   email = "nolant21@outlook.com"
