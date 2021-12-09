@@ -15,4 +15,4 @@ The moving average convergence and divergence technical indicator uses 26 and 12
 
 To construct this program the python programming language was used as it offers many tools to assist in the gathering and handling of time series data making implementation much simpler. These tools include Pandas, Beautiful Soup, Alpaca, and Numpy. 
 
-[GitHub Repository](https://github.com/Thompsonn2/ProjectLombax "GitHub Repository");
+[GitHub Repository](https://github.com/Thompsonn2/ProjectLombax "GitHub Repository")

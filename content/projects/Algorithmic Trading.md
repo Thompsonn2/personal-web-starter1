@@ -17,4 +17,4 @@ To predict price movements in this program moving averages were used. A moving a
 
 Running this program requires the user to enter a time period along with the ticker of the security, a three to four letter code that is unique to each security. After these credentials are fulfilled the program then tests the implemented strategy with data from the time period entered, giving the return and other statistics about performance when the program has concluded running. It will also produce a price chart of the security from that time period with the moving averages plotted, showing the entrance and exit points.
 
-[GitHub Repository](https://github.com/Thompsonn2/CS302lab1 "GitHub Repository");
+[GitHub Repository](https://github.com/Thompsonn2/CS302lab1 "GitHub Repository")
