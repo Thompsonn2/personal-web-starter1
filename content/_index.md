@@ -12,4 +12,4 @@ I am a Senior at Allegheny College looking for a job oppurtunity in the finance 
 
 {{< figure src="GAImage.png">}}
 
-[Analyzing Financial Markets using Technical Analysis](https://nolanwthompson.netlify.app/projects/senior-composition/ "Analyzing Financial Markets using Technical Analysis")
+### [Analyzing Financial Markets using Technical Analysis](https://nolanwthompson.netlify.app/projects/senior-composition/ "Analyzing Financial Markets using Technical Analysis")
