@@ -1,5 +1,5 @@
 ---
-title: ABOUT
+title: About
 ---
 
 This page gives a summary about my education, work experience, and what I like to do for fun!
