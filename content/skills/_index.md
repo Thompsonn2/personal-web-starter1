@@ -4,7 +4,24 @@ description: Hey, I'm Edna West
 images: ["/images/sample.jpg"]
 ---
 
+Through my education and experience I have gained a vast amount of skills in both computation and finance.
 
-This is my about page. :wave:
+### Programming Languages
+**Strong**Python
+**Strong**Java
+**Strong**C#
+**Strong**PLSQL
 
-Lorem ipsum dolor sit amet, :smile: consectetur adipisicing elit. Voluptates aut, tenetur distinctio voluptatibus ab. Nihil id dignissimos unde, tenetur iusto facilis suscipit corporis, ipsam necessitatibus, eaque iste deleniti consequuntur reprehenderit? :earth_africa:
+### Computational Skills and Workflows
+**Strong**Github Flow
+**Strong**Selenium Webdriver
+**Strong**Databases
+**Strong**Markdown
+**Strong**Latex
+
+### Financial Analysis Tools and Experience
+**Strong**Stata
+**Strong**Microsoft Office
+**Strong**Tableau
+
+**STRONG***Emphasize*Bloomberg Certified
