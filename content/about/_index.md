@@ -4,6 +4,8 @@ title: ABOUT
 
 This page gives a summary about my education, work experience, and what I like to do for fun!
 
+**Email: NolanT21@outlook.com**
+
 ## Education :graduation_cap:
 I plan on graduating from Allegheny College with a major in both Computer Science and Economics. While also here I played four year on the varisty baseball team and founded the Allegheny Bowling Club, acting as the vice president for three years.
 
