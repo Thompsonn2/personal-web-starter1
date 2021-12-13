@@ -15,7 +15,7 @@ When learning to develop and think computationally just knowing how to program i
 {{< figure src="/skills/images/SWSkills.png">}}
 
 ### Financial Analysis Tools and Experience
-Programming develops good problem solving skills along with increasing computational literacy. By having a solid understanding how computers work and experience using business software in real scenarios makes using most common applications more approachable. \
+Programming develops good problem solving skills along with increasing computational literacy. By having a solid understanding how computers work and experience using business software in real scenarios makes using most common applications more approachable. 
 
 ***Bloomberg Certified***
 
